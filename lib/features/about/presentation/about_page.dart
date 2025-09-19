@@ -5,9 +5,7 @@ class AboutPage extends StatelessWidget {
   const AboutPage({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return const AppShell(
-      child: Center(child: Text('About â€” Bio, Skills, Teaching')),
-    );
-  }
+  Widget build(BuildContext context) => const AppShell(
+    child: Center(child: Text('About â€” Bio, Skills, Teaching')),
+  );
 }

@@ -5,9 +5,7 @@ class ProjectsPage extends StatelessWidget {
   const ProjectsPage({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return const AppShell(
+  Widget build(BuildContext context) => const AppShell(
       child: Center(child: Text('Projects â€” Grid + Filters + Search (placeholder)')),
     );
-  }
 }

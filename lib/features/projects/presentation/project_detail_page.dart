@@ -5,9 +5,7 @@ class ProjectDetailPage extends StatelessWidget {
   const ProjectDetailPage({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return const AppShell(
+  Widget build(BuildContext context) => const AppShell(
       child: Center(child: Text('Project Detail â€” placeholder')),
     );
-  }
 }

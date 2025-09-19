@@ -5,9 +5,7 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return const AppShell(
+  Widget build(BuildContext context) => const AppShell(
       child: Center(child: Text('Home — Welcome to Mamdouh Portfolio')),
     );
-  }
 }
