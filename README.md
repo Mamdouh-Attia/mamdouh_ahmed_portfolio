@@ -44,14 +44,24 @@ assets/
   images/
   rive/
   3d_models/
+```
+
 
 👤 Author
 
 Mamdouh Ahmed Attia
 
-GitHub
+GitHub [@mamdouh-ahmed](https://github.com/mamdouh-ahmed)
 
-LinkedIn
+LinkedIn [Mamdouh Ahmed](https://www.linkedin.com/in/mamdouh-ahmed-mohammed-attia-1721b01a2/)
+
+## 🗂️ Project Tracking
+
+[![GitHub Project](https://img.shields.io/badge/Project-Portfolio%20Roadmap-blue?logo=github)](https://github.com/Mamdouh-Attia/mamdouh_ahmed_portfolio/projects)
+[![GitHub Issues](https://img.shields.io/github/issues/Mamdouh-Attia/mamdouh_ahmed_portfolio)](https://github.com/Mamdouh-Attia/mamdouh_ahmed_portfolio/issues)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/Mamdouh-Attia/mamdouh_ahmed_portfolio)](https://github.com/Mamdouh-Attia/mamdouh_ahmed_portfolio/issues?q=is%3Aissue+is%3Aclosed)
+
+
 
 📜 License
 
@@ -61,4 +71,3 @@ This project is licensed under the MIT License — see the LICENSE
 ---
 
 Made with ❤️ in Flutter
- by Mamdouh Ahmed Attia
