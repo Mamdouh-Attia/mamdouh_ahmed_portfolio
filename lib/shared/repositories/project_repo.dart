@@ -1,4 +1,3 @@
-import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../shared/services/supabase_client.dart';
 
 class ProjectsRepo {
