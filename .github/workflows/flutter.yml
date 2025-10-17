@@ -29,4 +29,4 @@ jobs:
         run: flutter test --no-pub
 
       - name: Build web
-        run: flutter build web --release
+        run: flutter build web --release --dart-define=SUPABASE_URL=${{ secrets.SUPABASE_URL }} --dart-define=SUPABASE_ANON_KEY=${{ secrets.SUPABASE_ANON_KEY }}
